@@ -1,0 +1,6 @@
+﻿  Head_First_Chap_2.cpp
+c:\users\mümin\documents\visual studio 2017\projects\head_first_chap_2\head_first_chap_2\head_first_chap_2.cpp(24): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\mümin\documents\visual studio 2017\projects\head_first_chap_2\head_first_chap_2\head_first_chap_2.cpp(26): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+c:\users\mümin\documents\visual studio 2017\projects\head_first_chap_2\head_first_chap_2\head_first_chap_2.cpp(31): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+  Head_First_Chap_2.vcxproj -> C:\Users\Mümin\documents\visual studio 2017\Projects\Head_First_Chap_2\Debug\Head_First_Chap_2.exe
+  Head_First_Chap_2.vcxproj -> C:\Users\Mümin\documents\visual studio 2017\Projects\Head_First_Chap_2\Debug\Head_First_Chap_2.pdb (Partial PDB)
