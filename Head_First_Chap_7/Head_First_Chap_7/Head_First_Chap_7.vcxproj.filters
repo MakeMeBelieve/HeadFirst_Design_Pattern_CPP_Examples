@@ -24,12 +24,48 @@
     <ClInclude Include="targetver.h">
       <Filter>Başlık Dosyaları</Filter>
     </ClInclude>
+    <ClInclude Include="MallardDuck.h">
+      <Filter>Başlık Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="WildTurkey.h">
+      <Filter>Başlık Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Duck.h">
+      <Filter>Başlık Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="TurkeyAdapter.h">
+      <Filter>Başlık Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Turkey.h">
+      <Filter>Başlık Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="DuckAdapter.h">
+      <Filter>Başlık Dosyaları</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
     <ClCompile Include="Head_First_Chap_7.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="MallardDuck.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="WildTurkey.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Duck.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="TurkeyAdapter.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="Turkey.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="DuckAdapter.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
   </ItemGroup>
