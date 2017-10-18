@@ -1,9 +1,0 @@
-c:\users\mümin\documents\visual studio 2017\Projects\90yil\90yil\bin\Debug\90yil.exe.config
-c:\users\mümin\documents\visual studio 2017\Projects\90yil\90yil\bin\Debug\90yil.exe
-c:\users\mümin\documents\visual studio 2017\Projects\90yil\90yil\bin\Debug\90yil.pdb
-c:\users\mümin\documents\visual studio 2017\Projects\90yil\90yil\obj\Debug\90yil.csprojResolveAssemblyReference.cache
-c:\users\mümin\documents\visual studio 2017\Projects\90yil\90yil\obj\Debug\_90yil.Properties.Resources.resources
-c:\users\mümin\documents\visual studio 2017\Projects\90yil\90yil\obj\Debug\90yil.csproj.GenerateResource.Cache
-c:\users\mümin\documents\visual studio 2017\Projects\90yil\90yil\obj\Debug\90yil.exe
-c:\users\mümin\documents\visual studio 2017\Projects\90yil\90yil\obj\Debug\90yil.pdb
-c:\users\mümin\documents\visual studio 2017\Projects\90yil\90yil\obj\Debug\_90yil.Hayat.resources
